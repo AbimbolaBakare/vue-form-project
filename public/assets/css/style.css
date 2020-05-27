@@ -1,0 +1,32 @@
+ /* #body {
+     font-family: 'Balsamiq Sans', cursive;
+     background: #007bff;
+     background: linear-gradient(to right, #0062E6, #33AEFF);
+     height: 100%;
+ } */
+
+ .for {
+     background-color: white;
+     background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),  url(../images/back.jpg);
+     background-position: center;
+     background-size: cover;
+     position: relative;
+     background-attachment: scroll;
+     box-shadow: 20px 30px 30px black;
+     border-radius: 20px;
+     border: 2px solid black;
+     height: 100%;
+ }
+
+ input {
+     border-radius: 20px;
+     border: 2px solid gray;
+     height: 40px;
+     text-align: center;
+     font-size: 20px;
+ }
+
+ label {
+     font-size: 15px;
+     color: white;
+ }
